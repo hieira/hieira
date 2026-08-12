@@ -1,10 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi%20there,%20I'm%20Eira!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Student%20at%20FPT%20University%20%7C%20Developer%20%26%20Designer&descAlignY=55&descAlign=50" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=80&lines=Hi+there,+I'm+Eira!+%F0%9F%91%8B;Student+at+FPT+University;Developer+%26+Designer" alt="Typing SVG" />
 </div>
 
-<h3 align="center">
-  🚀 Crafting digital experiences with code and design.
-</h3>
 <p align="center">
   <em>I build things mostly for fun, curiosity, and sometimes just to see if I can.</em>
 </p>
@@ -50,27 +47,16 @@
 
 <div align="center">
   <h3>📫 Let's Connect</h3>
-  <a href="https://www.facebook.com/1hieria">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />
-  </a>
-  <br><br>
-  <!-- Lanyard Discord Widget -->
-  <a href="https://discord.com/users/933303895386632192">
-    <img src="https://lanyard.cnrad.dev/api/933303895386632192?theme=dark&borderRadius=15px" width="300" alt="Discord Status" />
+  <a href="https://discordapp.com/users/933303895386632192">
+    <img src="https://img.shields.io/badge/Discord-933303895386632192-%235865F2.svg?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <h3>🏆 Achievements</h3>
-  <img src="https://camo.githubusercontent.com/eb5876a78a3e9ae579a9ccacc521153f82342716401910f3b6c9e8a8052ed8c6/68747470733a2f2f616e696d652e706c75732f696d6167652f616368696576656d656e742f6d616e67612d73636f72652d686967682e706e67" width="220" /> 
-  <img src="https://camo.githubusercontent.com/af721b62f7b45f1214b709e6c081504d4a367f8dba8618adba8eb1ee58c5a710/68747470733a2f2f616e696d652e706c75732f696d6167652f616368696576656d656e742f616e696d652d6d61686f752d73686f756a6f2d312e706e67" width="220" /> 
-  <img src="https://camo.githubusercontent.com/292eff9ddbf6beae01a7860e06c25df0a1e0813a44d28089cf072cc707cd9f58/68747470733a2f2f616e696d652e706c75732f696d6167652f616368696576656d656e742f616e696d652d6d757369632d312e706e67" width="220" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%" />
+  <h3>🏆 GitHub Trophies</h3>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=hieira&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15&column=7" alt="GitHub Trophies" />
+  </a>
 </div>
