@@ -86,25 +86,28 @@ Python     ███░░░░░░░░░░░ 10%
 
 ---
 
-### 🛠️ Mastered Technologies & Topics
+### 💻 Mastered Technologies & Topics
+
+**🛠 Programming & Development**
 <p>
-  <img src="https://img.shields.io/badge/Rust-black?style=flat-square&logo=rust" alt="Rust">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" alt="Python">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js" alt="Node.js">
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java" alt="Java">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B" alt="C++">
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp" alt="C#">
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c" alt="C">
-  <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git" alt="Git">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/C%2523-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
 </p>
+
+**🎨 Design & Video Editing**
 <p>
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop" alt="Photoshop">
-  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator" alt="Illustrator">
-  <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square&logo=adobepremierepro" alt="Premiere Pro">
-  <img src="https://img.shields.io/badge/After_Effects-9999FF?style=flat-square&logo=adobeaftereffects" alt="After Effects">
-  <img src="https://img.shields.io/badge/DaVinci_Resolve-E12026?style=flat-square&logo=davinciresolve" alt="DaVinci Resolve">
-  <img src="https://img.shields.io/badge/Affinity-000000?style=flat-square&logo=affinity" alt="Affinity">
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" alt="Photoshop">
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white" alt="Illustrator">
+  <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white" alt="Premiere Pro">
+  <img src="https://img.shields.io/badge/After_Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white" alt="After Effects">
+  <img src="https://img.shields.io/badge/DaVinci_Resolve-233A51?style=flat-square&logo=davinciresolve&logoColor=white" alt="DaVinci Resolve">
+  <img src="https://img.shields.io/badge/Affinity-222222?style=flat-square&logo=affinity&logoColor=white" alt="Affinity">
 </p>
 
 ---
