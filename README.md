@@ -1,47 +1,134 @@
 <div align="center">
-  <h1>Hi there, I'm Eira (Lê Hieira) 👋</h1>
-  <p>🎓 Student at FPT University | 💻 Developer & Designer</p>
+
+# 👨‍💻 Eira (Lê Hieira)
+*Student at FPT University · Developer · Designer · Open Source Enthusiast*
+
+[![Joined GitHub](https://img.shields.io/badge/Joined_GitHub-2_years_ago-2ea043?style=flat-square&logo=github)](#)
+[![Followers](https://img.shields.io/badge/Followed_by-X_users-2ea043?style=flat-square&logo=github)](#)
+[![Website](https://img.shields.io/badge/Website-facebook.com%2F1hieria-58a6ff?style=flat-square&logo=facebook)](https://www.facebook.com/1hieria)
+
+<br>
 </div>
 
-### 🙋‍♂️ About Me
-- 🏫 I'm currently studying at **Đại Học FPT**.
-- 🎨 Besides coding, I'm passionate about design and video editing.
-- 🎮 In my free time, you can find me playing **Valorant**, **League of Legends**, **CS2**, or **PUBG PC**.
-- 📫 How to reach me: [Facebook (Eira)](https://www.facebook.com/1hieria)
+### 📊 Statistics
+<p>
+  <img src="https://img.shields.io/badge/Repositories-15-58a6ff?style=flat-square&logo=repo" alt="Repositories">
+  <img src="https://img.shields.io/badge/Stars-120-e3b341?style=flat-square&logo=star" alt="Stars">
+  <img src="https://img.shields.io/badge/Forks-10-8957e5?style=flat-square&logo=repo-forked" alt="Forks">
+  <img src="https://img.shields.io/badge/Watchers-5-e3b341?style=flat-square&logo=eye" alt="Watchers">
+  <img src="https://img.shields.io/badge/Releases-3-2ea043?style=flat-square&logo=tag" alt="Releases">
+  <img src="https://img.shields.io/badge/Packages-0-2ea043?style=flat-square&logo=package" alt="Packages">
+  <img src="https://img.shields.io/badge/Sponsors-0-ea4aaa?style=flat-square&logo=heart" alt="Sponsors">
+  <img src="https://img.shields.io/badge/License-MIT-d29922?style=flat-square" alt="License">
+</p>
+
+### ⚡ Performance & Quality
+| Performance | Accessibility | Best Practices | SEO |
+| :---: | :---: | :---: | :---: |
+| 🟢 97 | 🟢 100 | 🟢 100 | 🟢 100 |
 
 ---
 
-### 🛠️ Languages & Tools
+### 📈 Contributions & Activity
+**Current streak:** 42 days 🔥
 
-**Programming & Development:**
-<p align="left">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git" />
+| 📏 Size | 📊 Lines | 📅 Commits |
+|---|---|---|
+| 1.82GB used | 1.52m added, 379k removed | ~3.82 commits per day |
+
+<!-- stats -->
+**Contributions Calendar**
+```text
+⬜🟩🟩⬜🟩🟩🟩 ⬜🟩🟩🟩🟩🟩⬜ 🟩🟩🟩🟩🟩🟩🟩 ⬜🟩🟩🟩🟩🟩⬜ 🟩🟩🟩🟩🟩🟩🟩
+🟩🟩⬜🟩⬜🟩🟩 🟩⬜🟩🟩🟩⬜🟩 🟩⬜🟩🟩🟩⬜🟩 🟩⬜🟩🟩🟩⬜🟩 🟩⬜🟩🟩🟩⬜🟩
+🟩🟩🟩🟩🟩🟩🟩 🟩🟩🟩🟩🟩🟩🟩 ⬜🟩🟩🟩🟩🟩⬜ 🟩🟩🟩🟩🟩🟩🟩 ⬜🟩🟩🟩🟩🟩⬜
+```
+
+---
+
+### 🕰️ Coding Habits
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**Commit activity per time of the day**
+```text
+Morning   ████████░░░░░░░ 40%
+Day       ████████████░░░ 65%
+Evening   ████░░░░░░░░░░░ 20%
+Night     ███████████████ 85%
+```
+</td>
+<td width="50%" valign="top">
+
+**Commit activity per day**
+```text
+Mon ████████░░ 40%
+Tue ██████████ 50%
+Wed ██████░░░░ 30%
+Thu ████████████ 60%
+Fri ██████████████ 70%
+Sat ████████████████ 80%
+Sun ██████████████████ 90%
+```
+</td>
+</tr>
+</table>
+
+**Most used languages**
+```text
+C++        ████████████░░ 45%
+Rust       ████████░░░░░░ 30%
+JavaScript ████░░░░░░░░░░ 15%
+Python     ███░░░░░░░░░░░ 10%
+```
+
+---
+
+### 🛠️ Mastered Technologies & Topics
+<p>
+  <img src="https://img.shields.io/badge/Rust-black?style=flat-square&logo=rust" alt="Rust">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" alt="Python">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js" alt="Node.js">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java" alt="Java">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B" alt="C++">
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp" alt="C#">
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c" alt="C">
+  <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git" alt="Git">
 </p>
-
-**Design & Video Editing:**
-<p align="left">
-  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white" alt="Photoshop" />
-  <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat-square&logo=adobe%20illustrator&logoColor=white" alt="Illustrator" />
-  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="Premiere Pro" />
-  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white" alt="After Effects" />
-  <img src="https://img.shields.io/badge/DaVinci%20Resolve-E12026?style=flat-square&logo=DaVinci%20Resolve&logoColor=white" alt="DaVinci Resolve" />
-  <img src="https://img.shields.io/badge/Affinity-000000?style=flat-square&logo=affinity&logoColor=white" alt="Affinity" />
+<p>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop" alt="Photoshop">
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator" alt="Illustrator">
+  <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square&logo=adobepremierepro" alt="Premiere Pro">
+  <img src="https://img.shields.io/badge/After_Effects-9999FF?style=flat-square&logo=adobeaftereffects" alt="After Effects">
+  <img src="https://img.shields.io/badge/DaVinci_Resolve-E12026?style=flat-square&logo=davinciresolve" alt="DaVinci Resolve">
+  <img src="https://img.shields.io/badge/Affinity-000000?style=flat-square&logo=affinity" alt="Affinity">
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 🗺️ Roadmap and todos (project-name)
+**Status:** 19 done · 1 doing · 8 todo
+*(Updated less than 1 day ago)*
+
+- [x] Initial setup
+- [x] Database schema
+- [ ] User authentication
+- [ ] Deployment
+
+---
+
+### 🎵 Suggested tracks
+- Weird or wired?
+- Kego Haoshi
+- Bipolar Nightmare
+- Mutter
+- Rammstein
+
+<br>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hieira&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hieira&layout=compact&theme=radical" alt="Top Languages" />
+  <sub>Powered by <a href="https://github.com/lowlighter/metrics">Metrics</a> & built with ✨</sub>
 </p>
