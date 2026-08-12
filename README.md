@@ -49,15 +49,6 @@
 
 
 
-<h3 align="center">🎮 Currently Playing / Online Status</h3>
-<p align="center">
-  <a href="https://discord.com/users/933303895386632192">
-    <img src="https://lanyard.cnrad.dev/api/933303895386632192?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=10px" alt="Discord Status" width="350px"/>
-  </a>
-</p>
-
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer" width="100%" />
 </div>
