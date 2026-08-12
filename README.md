@@ -22,7 +22,7 @@
     </td>
     <td width="50%" valign="top" align="center">
       <h3>📊 GitHub Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=hieira&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=hieira&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
     </td>
   </tr>
 </table>
@@ -47,8 +47,9 @@
 
 <div align="center">
   <h3>📫 Let's Connect</h3>
+  <br>
   <a href="https://discordapp.com/users/933303895386632192">
-    <img src="https://img.shields.io/badge/Discord-933303895386632192-%235865F2.svg?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
+    <img src="https://lanyard.cnrad.dev/api/933303895386632192?theme=dark&bg=0D1117&borderRadius=8px&animated=true" width="320" alt="Discord Status" style="box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" />
   </a>
 </div>
 
