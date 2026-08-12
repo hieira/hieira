@@ -39,11 +39,15 @@
 <h3 align="center">🛠️ Languages & Tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,python,nodejs,js,java,cpp,cs,c,lua,nextjs,npm,nginx&perline=12" />
+    <img src="https://skillicons.dev/icons?i=rust,python,c,cpp,cs,java,kotlin,js,ts,html,css,lua&perline=12" />
   </a>
   <br />
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,windows,docker,git,gitlab,neovim,figma,ps,ai,pr,ae&perline=11" />
+    <img src="https://skillicons.dev/icons?i=bash,nodejs,npm,nextjs,tailwind,windicss,nginx,cloudflare,docker,gradle,git,gitlab&perline=12" />
+  </a>
+  <br />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,windows,neovim,vscode,visualstudio,postman,blender,figma,ps,ai,pr,ae&perline=12" />
   </a>
 </p>
 
