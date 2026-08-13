@@ -15,22 +15,19 @@
 
 <br/>
 
-<img align="right" src="https://i.pinimg.com/736x/54/50/38/5450382c18412272a7ae0a813fd8953e.jpg" width="300" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);" />
+<img align="right" src="https://i.pinimg.com/736x/c2/c4/e1/c2c4e155a39fd3161effd5d859990115.jpg" width="300" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);" />
 
 ### 👨‍💻 About Me
 
-- 🎓 Currently studying at **FPT University**.
-- 🌱 Exploring modern **web tech**, **system architecture**, and **UI/UX design**.
-- 💡 Enjoying the process one line of code at a time.
-- 🎮 In my free time, I play **Valorant**, **LoL**, **CS2**, or **PUBG PC**.
-- 🏆 **Esports Enthusiast**: Huge fan of **T1** <img src="https://en.wikipedia.org/wiki/Special:FilePath/T1_logo.svg" height="16" alt="T1 Logo" />. My absolute idols are **Faker** & **TenZ**.
+- 🎓 **Student Life**: Journeying through code and logic at **FPT University**.
+- 🎨 **Creative Developer**: Deep diving into modern **Web Technologies**, architecting scalable **Systems**, and crafting beautiful **UI/UX Designs**. I believe in making things not just functional, but visually stunning! ✨
+- 💻 **Philosophy**: Transforming coffee into clean code and enjoying every single bug-fixing adventure. 
+- 🎮 **Gamer at Heart**: When I'm not coding, you can find me clicking heads and grinding ranks in **Valorant**, **CS2**, **LoL**, or dropping hot in **PUBG PC**.
+- 🏆 **Esports Fanatic**: Cheering loud for my absolute idol **TenZ**!
   
   <p align="left">
-    <img src="https://photo.znews.vn/w660/Uploaded/sfrsm/2025_11_11/Faker_Champion_2025_min.jpg" height="120" alt="Faker Champion" style="border-radius: 10px;" />
-    &nbsp;&nbsp;
-    <img src="https://cdn.oneesports.gg/wp-content/uploads/sites/4/2024/09/Valorant-Sentinels-vo-dich-Master-Madrid-1024x576.jpg" height="120" alt="TenZ Trophy" style="border-radius: 10px;" />
+    <img src="https://static.wikia.nocookie.net/valorant_esports_gamepedia_en/images/c/c9/TenZ.png/revision/latest/scale-to-width-down/250?cb=20200413130203" width="220" alt="TenZ" style="border-radius: 15px; margin-top: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.4);" />
   </p>
-- 💬 Ask me about **Design, Web Dev, or gaming**.
 
 <br clear="both">
 
