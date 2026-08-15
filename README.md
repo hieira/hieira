@@ -15,7 +15,7 @@
 
 <br/>
 
-<img align="right" src="https://i.pinimg.com/736x/c2/c4/e1/c2c4e155a39fd3161effd5d859990115.jpg" width="300" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);" />
+<img align="right" src="https://i.pinimg.com/736x/39/47/0d/39470db15a02aa5713f93d35bd1b4181.jpg" width="300" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);" />
 
 ### 👨‍💻 About Me
 
