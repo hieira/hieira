@@ -34,23 +34,6 @@ Welcome to my digital garden. I'm a passionate developer focusing on system arch
 
 <br clear="both">
 
-### 💻 `whoami`
-
-```json
-{
-  "name": "Lê Hieira",
-  "alias": "Eira",
-  "education": "FPT University",
-  "skills": {
-    "frontend": ["Next.js", "TypeScript", "TailwindCSS"],
-    "backend": ["Node.js", "Rust", "C++", "Java", "Python"],
-    "devops": ["Linux", "Docker", "Nginx", "GitLab CI"],
-    "design": ["Figma", "Blender", "Adobe CC"]
-  },
-  "editor": "Neovim",
-  "status": "Writing robust code and chasing bugs..."
-}
-```
 
 ---
 
