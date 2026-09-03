@@ -17,18 +17,15 @@
 
 <br/>
 
-<img align="right" src="https://raketcontent.com/Untitled441_20240929172913_ecf7e98d8c.png" width="360" />
+<img align="right" src="https://raketcontent.com/Untitled441_20240929172913_ecf7e98d8c.png" width="180" />
 
 ### 👨‍💻 System Log
 
-Welcome to my space. I specialize in engineering robust microservices and crafting seamless UI/UX, channeling any downtime into container optimization and ranked competitive gaming.
+Welcome to my workspace. I build resilient distributed systems and intuitive interfaces, driven by a deep obsession with runtime performance and infrastructure automation.
 
-- 🔭 **Core Competencies**: Scalable web applications, high-throughput systems (Rust/C++), and cloud orchestration.
-- ⚡ **Guiding Principles**: Resilient architecture, lean dependencies, and programmatic efficiency.
-- 🎮 **Recreation**: Precision aim in competitive shooters (Valorant), heavily inspired by TenZ.
+- 🔭 **Focus**: Scalable web platforms, low-level engineering (Rust/C++), and automated cloud infrastructure.
+- ⚡ **Ethos**: Architectural simplicity, zero-bloat dependencies, and uncompromising efficiency.
 
-<p align="left">
-  <img src="https://static.wikia.nocookie.net/valorant_esports_gamepedia_en/images/2/2a/TenZIconPrfl.png/revision/latest?cb=20210604100450" width="180" alt="TenZ" />
 </p>
 
 <br clear="both">
