@@ -17,18 +17,18 @@
 
 <br/>
 
-<img align="right" src="https://i.pinimg.com/736x/fc/78/c8/fc78c82067c0d8f485bb637ca9ff166f.jpg" width="280" />
+<img align="right" src="https://raketcontent.com/Untitled441_20240929172913_ecf7e98d8c.png" width="380" />
 
 ### 👨‍💻 System Log
 
-Welcome to my digital garden. I'm a passionate developer focusing on system architecture, microservices, and crafting pixel-perfect UI/UX. When I'm not configuring Neovim or orchestrating Docker containers, I'm probably grinding the ranks in competitive gaming.
+Welcome to my space. I specialize in engineering robust microservices and crafting seamless UI/UX, channeling any downtime into container optimization and ranked competitive gaming.
 
-- 🔭 **Focus**: Full-stack Development, High-performance computing (Rust/C++), and DevOps.
-- ⚡ **Philosophy**: Clean architecture, minimal dependencies, and automation.
-- 🎮 **Esports Fanatic**: Clicking heads in **Valorant** & **CS2**. Absolute fanboy of **TenZ**!
+- 🔭 **Core Competencies**: Scalable web applications, high-throughput systems (Rust/C++), and cloud orchestration.
+- ⚡ **Guiding Principles**: Resilient architecture, lean dependencies, and programmatic efficiency.
+- 🎮 **Recreation**: Precision aim in competitive shooters (Valorant), heavily inspired by TenZ.
 
 <p align="left">
-  <img src="https://static.wikia.nocookie.net/valorant_esports_gamepedia_en/images/c/c9/TenZ.png/revision/latest/scale-to-width-down/250?cb=20200413130203" width="180" alt="TenZ" />
+  <img src="https://static.wikia.nocookie.net/valorant_esports_gamepedia_en/images/2/2a/TenZIconPrfl.png/revision/latest?cb=20210604100450" width="180" alt="TenZ" />
 </p>
 
 <br clear="both">
