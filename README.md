@@ -17,7 +17,7 @@
 
 <br/>
 
-<img align="right" src="https://i.pinimg.com/736x/c2/c4/e1/c2c4e155a39fd3161effd5d859990115.jpg" width="280" />
+<img align="right" src="https://i.pinimg.com/736x/fc/78/c8/fc78c82067c0d8f485bb637ca9ff166f.jpg" width="280" />
 
 ### 👨‍💻 System Log
 
