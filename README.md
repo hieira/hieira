@@ -17,7 +17,7 @@
 
 <br/>
 
-<img align="right" src="https://raketcontent.com/Untitled441_20240929172913_ecf7e98d8c.png" width="380" />
+<img align="right" src="https://raketcontent.com/Untitled441_20240929172913_ecf7e98d8c.png" width="360" />
 
 ### 👨‍💻 System Log
 
